@@ -1,0 +1,10 @@
+- git clone [URl]: clonar repositorio
+- git config --global user.name "": agregar nombre de usuario
+- git config --global user.email "": agregar email de usuario
+- git confing --list: ver lista de configuraciones
+- git log: ver los logs del proyecto
+- git log --oneline: ver los logs del proyecto en 1 linea
+- git log -p: ver alteraciones de commit
+- git log --author="user_name": informacion del autor del commit
+- git log --since=1.month.ago --until=1.day.ago: buscar informacion del commit por fecha
+- git log --pretty="format:%h %s": formatea la visualizacion del commit
