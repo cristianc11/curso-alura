@@ -15,3 +15,6 @@
 - git push: envia los cambios realizados para que se sincronicen en la nube de git
 - git diff o git diff [archivo]: muestra los cambios realizados en el proyecto o en un archivo en especifico
 - git restore --source #hash [archivo]: Restaura un archivo en especifico (el #hash se consigue en git log --online)
+- git checkout -b [nombre de rama]: crea una nueva rama de trabajo y cambia a esa rama
+- git branch: nos muestra una lista de las ramas
+- git switch [nomre rama]: cambia de rama
