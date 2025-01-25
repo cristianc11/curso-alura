@@ -8,3 +8,8 @@
 - git log --author="user_name": informacion del autor del commit
 - git log --since=1.month.ago --until=1.day.ago: buscar informacion del commit por fecha
 - git log --pretty="format:%h %s": formatea la visualizacion del commit
+- git pull: actualiza el estado y los archivos del repositorio en mi local
+- git status: verificar el estado de mi proyecto
+- git add . o git add [name.archivo]: agrega todos los archivos o el archivo para el commit
+- git commit -m "comentario": envio de commit con los cambios realizados
+- git push: envia los cambios realizados para que se sincronicen en la nube de git
