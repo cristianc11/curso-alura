@@ -13,3 +13,5 @@
 - git add . o git add [name.archivo]: agrega todos los archivos o el archivo para el commit
 - git commit -m "comentario": envio de commit con los cambios realizados
 - git push: envia los cambios realizados para que se sincronicen en la nube de git
+- git diff o git diff [archivo]: muestra los cambios realizados en el proyecto o en un archivo en especifico
+- git restore --source #hash [archivo]: Restaura un archivo en especifico (el #hash se consigue en git log --online)
