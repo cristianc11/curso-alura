@@ -18,3 +18,6 @@
 - git checkout -b [nombre de rama]: crea una nueva rama de trabajo y cambia a esa rama
 - git branch: nos muestra una lista de las ramas
 - git switch [nomre rama]: cambia de rama
+- git push origin [rama]: envia los cambios a la nube de git cuando se tienen varias ramas
+- git branch [nombre rama]: crea una nueva rama
+- git merge [nombre rama]: unifica los cambios realizados desde otra rama
